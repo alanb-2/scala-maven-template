@@ -1,0 +1,11 @@
+# IntelliJ
+.idea
+*.iml
+
+# Maven
+target
+.flattened-pom.xml
+
+# Spark
+metastore_db
+spark-warehouse
